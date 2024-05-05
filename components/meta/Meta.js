@@ -1,9 +1,9 @@
 import Head from "next/head";
 
 export default function Meta({ title, keywords, description }) {
-    const homepage = "https://atsresume.vercel.app/";
-    const logo = "https://atsresume.vercel.app/assets/logo.png";
-    const fevicon = "https://atsresume.vercel.app/assets/favicon.ico";
+    const homepage = "https://srikanthatsresumemakersoftware.vercel.app";
+    const logo = "https://srikanthatsresumemakersoftware.vercel.app/assets/logo.png";
+    const fevicon = "https://srikanthatsresumemakersoftware.vercel.app/assets/favicon.ico";
 
     function isiteJsonLd() {
         return {
@@ -19,8 +19,8 @@ export default function Meta({ title, keywords, description }) {
                 },
                 "image": ${logo},
                 "description": ${description},
-                "founder": "Saurav Hathi",
-                "foundingDate": "2023",
+                "founder": "BADAVATH SRIKANTH",
+                "foundingDate": "2024",
                 "foundingLocation": "IN",
                 "email": "xyz@gmail.com",
                 "telephone": "+91 9999999999",
@@ -29,8 +29,8 @@ export default function Meta({ title, keywords, description }) {
                 "mainEntityOfPage": ${homepage},
                 "knowsAbout": ${keywords},
                 "knowsLanguage": "English",
-                "memberOf": "Saurav Hathi",
-                "owns": "Saurav Hathi",
+                "memberOf": "BADAVATH SRIKANTH",
+                "owns": "BADAVATH SRIKANTH",
                 "publishingPrinciples": ${homepage},
                 "slogan": "Get hired with an ATS-optimized resume"
             }`
@@ -47,7 +47,7 @@ export default function Meta({ title, keywords, description }) {
             <link rel="icon" href={fevicon} />
             <title>{title}</title>
             <meta type="copyright" content="ATSResume" />
-            <meta type="author" content="Saurav Hathi" />
+            <meta type="author" content="BADAVATH SRIKANTH" />
             {/* Open Graph */}
             <meta property="og:type" content="website" />
             <meta property="og:url" content={homepage} />
