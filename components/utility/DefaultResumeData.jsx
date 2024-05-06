@@ -1,22 +1,22 @@
 const DefaultResumeData = {
-  name: "MARCUS HALL",
-  position: "Developer",
-  contactInformation: "+1-555-0100",
-  email: "beddylea@gmail.com",
-  address: "San Francisco, CA",
+  name: "BADAVATH SRIKANTH",
+  position: "Data Scientist",
+  contactInformation: "+91 9701482514",
+  email: "badavathsrikanth149@gmail.com",
+  address: "Nizamabaad, Telangana",
   profilePicture: "",
   socialMedia: [
     {
       socialMedia: "Github",
-      link: "github.com//bedivere-lea",
+      link: "github.com//srikanth284",
     },
     {
       socialMedia: "LinkedIn",
-      link: "linkedin.com/in/bedivere-lea",
+      link: "linkedin.com/in/badavathsrikanth",
     },
     {
       socialMedia: "Website",
-      link: "bedivere-lea.github.io",
+      link: "srikanthbadavath.me",
     },
   ],
   summary: "Resourceful Developer with 11 years of experience in designing and developing user interfaces, testing and training employees. Skilled at utilizing a wide variety of tools and programs to provide effective applications.",
