@@ -34,8 +34,8 @@ const DefaultResumeData = {
       "position": "Data Scientist",
       "description": "Blenheim Chalcot is a global software company that offers user interface UI development tools and components for a range of developer applications across all platforms.",
       "keyAchievements": "Created and maintained 10 web applications for numerous national and foreign clients.\nEnsured that the user interfaces and user experience of the software applications developed by the team met at least 80% of users expectations.\nCreated and analyzed 500 unit test cases.\nDeveloped python scripts to automate image's noise-reduction process which helped improve research analysis time by 40%.\nEstablished and lead a team of 10 people; covering every key role in the early stages.",
-      "startYear": "2023-02-16",
-      "endYear": "2023-02-21"
+      "startYear": "2023-06-12",
+      "endYear": "Present"
     },
     {
       "company": "Reilty Group",
